@@ -7,7 +7,7 @@ import ContactSection from "./components/ContactSection";
 
 export default function App() {
   return (
-    <div className="min-h-screen bg-[#FOEDE5]">
+    <div className="min-h-screen bg-[#F6F7F7]">
       <main className="mx-auto max-w-2xl px-5 py-12 sm:px-8 sm:py-16 md:py-20">
         <div className="space-y-12 sm:space-y-14">
           <ProfileSection />
