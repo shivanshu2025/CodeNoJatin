@@ -9,7 +9,7 @@ const socialLinks = [
 
   // Added ones
   { name: "GitHub", icon: <GitHubIcon size={14} />, href: "https://github.com/shivanshu2025" },
-  { name: "Instagram", icon: <InstagramIcon size={14} />, href: "https://instagram.com" },
+  { name: "Instagram", icon: <InstagramIcon size={14} />, href: "https://www.instagram.com/2v.shivanshu_singh?igsh=NmF1ZmY5bnJtdzY2" },
 ];
 
 export default function SocialSection() {
