@@ -5,7 +5,7 @@ import {
 } from "./Icons";
 
 const socialLinks = [
-  { name: "LinkedIn", icon: <LinkedInIcon size={14} />, href: "https://www.linkedin.com/in/jatin-singh-1033aa3b7/" },
+  { name: "LinkedIn", icon: <LinkedInIcon size={14} />, href: "www.linkedin.com/in/jatin-singh-1033aa3b7" },
 
   // Added ones
   { name: "GitHub", icon: <GitHubIcon size={14} />, href: "https://github.com/shivanshu2025" },
