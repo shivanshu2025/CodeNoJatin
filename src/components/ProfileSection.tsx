@@ -21,19 +21,25 @@ export default function ProfileSection() {
       </h1>
 
       {/* Description */}
-      <div className="space-y-2 text-gray-600">
+      {/* Description */}
+      <div className="space-y-3 text-gray-600">
         <p>
-          A freelance full-stack engineer based in Wroclaw, Poland{" "}
-          <span className="inline-block align-middle">🇵🇱</span>
+          Crafting modern digital experiences with performance, scalability, and innovation at the core 🚀
         </p>
 
         <p>
-          I specialize in building web applications with{" "}
-          <span className="font-medium text-gray-900">React</span> ecosystem.
+          Specialized in building high-quality web applications and AI-powered platforms using{" "}
+          <span className="font-medium text-gray-900">
+            React, Next.js & Node.js
+          </span>.
         </p>
 
         <p>
-          If you need a reliable developer to build your product, I'm here to help.
+          Focused on delivering clean design, seamless user experience, and reliable development solutions.
+        </p>
+
+        <p>
+          Turning ambitious ideas into impactful digital products.
         </p>
       </div>
 
