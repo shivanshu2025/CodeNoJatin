@@ -21,7 +21,6 @@ export default function ProfileSection() {
       </h1>
 
       {/* Description */}
-      {/* Description */}
       <div className="space-y-3 text-gray-600">
         <p>
           Crafting modern digital experiences with performance, scalability, and innovation at the core 🚀
@@ -46,7 +45,7 @@ export default function ProfileSection() {
       {/* Buttons */}
       <div className="flex flex-wrap gap-3">
         <a
-          href="#"
+          href="https://kaiyo-mocha.vercel.app/"
           className="inline-flex items-center gap-2 rounded-full bg-gray-900 px-5 py-2.5 text-sm font-medium text-white hover:bg-gray-800 hover:animate-[shake3856_0.3s_linear_infinite]"
         >
           <Calendar className="h-4 w-4" />
@@ -54,7 +53,7 @@ export default function ProfileSection() {
         </a>
 
         <a
-          href="mailto:your@email.com"
+          href="https://kaiyo-mocha.vercel.app/contact"
           className="inline-flex items-center gap-2 rounded-full border border-gray-200 bg-white px-5 py-2.5 text-sm font-medium text-gray-700 hover:bg-gray-50 hover:animate-[shake3856_0.3s_linear_infinite]"
         >
           <Mail className="h-4 w-4" />
